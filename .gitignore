@@ -1,0 +1,10 @@
+# Ignore binary bitstream files
+*.bin
+bitstreams/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Editor configuration
+.vscode/
